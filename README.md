@@ -1,2 +1,2 @@
-# Proyectos Power Bi
-Repositorio para mis ejercicios y proyectos de Power Bi en el ciclo.
+# Power Bi Projects
+Repository for my Power BI exercises and projects in the cycle.
